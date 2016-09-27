@@ -1,0 +1,9 @@
+C:\Users\Анюта\Desktop\markov_chains\markov_chains\bin\Debug\markov_chains.exe.config
+C:\Users\Анюта\Desktop\markov_chains\markov_chains\bin\Debug\markov_chains.exe
+C:\Users\Анюта\Desktop\markov_chains\markov_chains\bin\Debug\markov_chains.pdb
+C:\Users\Анюта\Desktop\markov_chains\markov_chains\obj\Debug\markov_chains.csprojResolveAssemblyReference.cache
+C:\Users\Анюта\Desktop\markov_chains\markov_chains\obj\Debug\markov_chains.Form1.resources
+C:\Users\Анюта\Desktop\markov_chains\markov_chains\obj\Debug\markov_chains.Properties.Resources.resources
+C:\Users\Анюта\Desktop\markov_chains\markov_chains\obj\Debug\markov_chains.csproj.GenerateResource.Cache
+C:\Users\Анюта\Desktop\markov_chains\markov_chains\obj\Debug\markov_chains.exe
+C:\Users\Анюта\Desktop\markov_chains\markov_chains\obj\Debug\markov_chains.pdb
